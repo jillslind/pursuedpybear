@@ -43,11 +43,12 @@ Halle Jones|HJones@aliacy.com||
 [Bernard Sanders](https://github.com/bernardthered) | | [@BernardCBolt](https://twitter.com/BernardCBolt)
 [Morisa Manzella](https://github.com/mgmanzella) | |
 [Mark J Cameron](https://github.come/kcalmwinds) |  | [LuminariWeekly](https://twitter.com/LuminariWeekly) |
-[Laura G. Funderburk](https://github.com/lfunderburk) | | [@lgfunderburk](https://twitter.com/lgfunderburk)| 
+[Laura G. Funderburk](https://github.com/lfunderburk) | | [@lgfunderburk](https://twitter.com/lgfunderburk)|
 [Mark Boer](https://github.com/mark-boer) | |
 [Anthony Plunkett](https://github.com/doobeh) | |
 [Mateus Denucci Garcia Seabra Resende](https://github.com/MateusDenucci) | |
 [Victor Hart](https://github.com/vicohart) | [vicohart@gmail.com](vicohart@gmail.com) |
+[Aaron Mak](https://github.com/aaronmak) | [im@arnmk.com](mailto:im@arnmk.com) |
 [nilamo](https://github.com/nilamo) | [7nilamo@gmail.com](7nilamo@gmail.com) | 
 [Abhijeet](https://github.com/abhijeetgupto) |[abhigupta7b@gmail.com](abhigupta7b@gmail.com) | [@abhijeetgupto](https://twitter.com/abhijeetgupto)|
 [Andy Tran](https://github.com/tran-dy) | | |
